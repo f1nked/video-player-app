@@ -1,6 +1,6 @@
 # Video Player App
 
-Видео плеер с событиями на ReactJS (TypeScripts, Redux, Redux-saga)
+React video player with events (TypeScripts, Redux, Redux-saga)
 
 ### `npm start`
 
